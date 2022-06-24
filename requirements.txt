@@ -1,0 +1,6 @@
+Django==3.2
+django-environ==0.9.0
+djangorestframework==3.13.1
+mysqlclient
+Pillow
+python-dateutil
