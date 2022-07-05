@@ -1,6 +1,6 @@
 Django==3.2
-django-environ==0.9.0
 djangorestframework==3.13.1
-mysqlclient
-Pillow
+# Pillow
 python-dateutil
+psycopg2-binary==2.9.1
+gunicorn==20.1.0
